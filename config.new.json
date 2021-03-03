@@ -16,8 +16,8 @@
     "stores": {
 
         "newegg": {
-		
-			"skip": false,
+
+            "skip": false,
 
             "name": "Newegg",
 
@@ -25,7 +25,7 @@
 
             "in_stock_identifiers": [
                 "Add to cart",
-				"<strong>In stock.</strong>"
+                "<strong>In stock.</strong>"
             ],
 
             "robot_identifiers": [
@@ -33,26 +33,26 @@
             ],
 
             "products": {
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080gaming-oc-10gd/p/N82E16814932329?Description=RTX%203080&cm_re=RTX_3080-_-14-932-329-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080GAMING OC",
-				"https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=RTX%203080&cm_re=RTX_3080-_-14-137-598-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 VENTUS 3X 10G OC",
-				"https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597?Description=RTX%203080&cm_re=RTX_3080-_-14-137-597-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 GAMING X TRIO",
-				"https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?Description=RTX%203080&cm_re=RTX_3080-_-14-137-600-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 VENTUS",
-				"https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3897-kr/p/N82E16814487518?Description=RTX%203080&cm_re=RTX_3080-_-14-487-518-_-Product": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING Video Card",
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080aorus-m-10gd/p/N82E16814932336?Description=RTX%203080&cm_re=RTX_3080-_-14-932-336-_-Product": "GIGABYTE AORUS GeForce RTX 3080 DirectX 12 GV-N3080AORUS",
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337?Description=RTX%203080&cm_re=RTX_3080-_-14-932-337-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080VISION OC",
-				"https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=RTX%203080&cm_re=RTX_3080-_-14-487-521-_-Product": "EVGA GeForce RTX 3080 XC3 GAMING Video Card",
-				"https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=RTX%203080&cm_re=RTX_3080-_-14-487-522-_-Product": "EVGA GeForce RTX 3080 XC3 BLACK GAMING Video Card",
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330?Description=RTX%203080&cm_re=RTX_3080-_-14-932-330-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080EAGLE OC",
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080aorus-x-10gd/p/N82E16814932345?Description=RTX%203080&cm_re=RTX_3080-_-14-932-345-_-Product": "GIGABYTE AORUS GeForce RTX 3080 DirectX 12 GV-N3080AORUS X-10GD",
-				"https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080eagle-10gd/p/N82E16814932367?Description=RTX%203080&cm_re=RTX_3080-_-14-932-367-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080EAGLE-10GD",
-				"https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519?Description=RTX%203080&cm_re=RTX_3080-_-14-487-519-_-Product": "EVGA GeForce RTX 3080 FTW3 GAMING Video Card"
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080gaming-oc-10gd/p/N82E16814932329?Description=RTX%203080&cm_re=RTX_3080-_-14-932-329-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080GAMING OC",
+                "https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=RTX%203080&cm_re=RTX_3080-_-14-137-598-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 VENTUS 3X 10G OC",
+                "https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597?Description=RTX%203080&cm_re=RTX_3080-_-14-137-597-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 GAMING X TRIO",
+                "https://www.newegg.com/global/uk-en/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?Description=RTX%203080&cm_re=RTX_3080-_-14-137-600-_-Product": "MSI GeForce RTX 3080 DirectX 12 RTX 3080 VENTUS",
+                "https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3897-kr/p/N82E16814487518?Description=RTX%203080&cm_re=RTX_3080-_-14-487-518-_-Product": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING Video Card",
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080aorus-m-10gd/p/N82E16814932336?Description=RTX%203080&cm_re=RTX_3080-_-14-932-336-_-Product": "GIGABYTE AORUS GeForce RTX 3080 DirectX 12 GV-N3080AORUS",
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337?Description=RTX%203080&cm_re=RTX_3080-_-14-932-337-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080VISION OC",
+                "https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=RTX%203080&cm_re=RTX_3080-_-14-487-521-_-Product": "EVGA GeForce RTX 3080 XC3 GAMING Video Card",
+                "https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=RTX%203080&cm_re=RTX_3080-_-14-487-522-_-Product": "EVGA GeForce RTX 3080 XC3 BLACK GAMING Video Card",
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330?Description=RTX%203080&cm_re=RTX_3080-_-14-932-330-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080EAGLE OC",
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080aorus-x-10gd/p/N82E16814932345?Description=RTX%203080&cm_re=RTX_3080-_-14-932-345-_-Product": "GIGABYTE AORUS GeForce RTX 3080 DirectX 12 GV-N3080AORUS X-10GD",
+                "https://www.newegg.com/global/uk-en/gigabyte-geforce-rtx-3080-gv-n3080eagle-10gd/p/N82E16814932367?Description=RTX%203080&cm_re=RTX_3080-_-14-932-367-_-Product": "GIGABYTE GeForce RTX 3080 DirectX 12 GV-N3080EAGLE-10GD",
+                "https://www.newegg.com/global/uk-en/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519?Description=RTX%203080&cm_re=RTX_3080-_-14-487-519-_-Product": "EVGA GeForce RTX 3080 FTW3 GAMING Video Card"
             }
 
         },
 
         "box": {
-		
-			"skip": false,
+
+            "skip": false,
 
             "name": "Box",
 
@@ -77,8 +77,8 @@
 
 
         "ebuyer": {
-		
-			"skip": false,
+
+            "skip": false,
 
             "name": "eBuyer",
 
@@ -86,7 +86,7 @@
 
             "in_stock_identifiers": [
                 "Add to Basket",
-				"In Stock"
+                "In Stock"
             ],
 
             "robot_identifiers": [
@@ -111,8 +111,8 @@
         },
 
         "Awd-it": {
-		
-			"skip": false,
+
+            "skip": false,
 
             "name": "Awd-it",
 
@@ -135,10 +135,10 @@
             }
 
         },
-		
-		"Ariapc": {
-		
-			"skip": false,
+
+        "Ariapc": {
+
+            "skip": false,
 
             "name": "Ariapc",
 
@@ -158,10 +158,10 @@
             }
 
         },
-		
-		"Novatech": {
-		
-			"skip": false,
+
+        "Novatech": {
+
+            "skip": false,
 
             "name": "Novatech",
 
@@ -176,16 +176,16 @@
             ],
 
             "products": {
-				"https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-gddr6x-graphics-card/rog-strix-rtx3080-o10g-gaming.html": "ASUS NVIDIA GeForce RTX 3080 ROG STRIX OC 10GB GDDR6X Graphics Card",
-				"https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-eagle-oc-10gb-gddr6x-graphics-card/gv-n3080eagleoc-10gd.html": "Gigabyte NVIDIA GeForce RTX 3080 EAGLE OC 10GB GDDR6X Graphics Card",
-				"https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3080-ventus-3x-oc-10gb-gddr6x-graphics-card/3080ventus3x10goc.html": "MSI NVIDIA GeForce RTX 3080 VENTUS 3X OC 10GB GDDR6X Graphics Card"
+                "https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-gddr6x-graphics-card/rog-strix-rtx3080-o10g-gaming.html": "ASUS NVIDIA GeForce RTX 3080 ROG STRIX OC 10GB GDDR6X Graphics Card",
+                "https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-eagle-oc-10gb-gddr6x-graphics-card/gv-n3080eagleoc-10gd.html": "Gigabyte NVIDIA GeForce RTX 3080 EAGLE OC 10GB GDDR6X Graphics Card",
+                "https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3080-ventus-3x-oc-10gb-gddr6x-graphics-card/3080ventus3x10goc.html": "MSI NVIDIA GeForce RTX 3080 VENTUS 3X OC 10GB GDDR6X Graphics Card"
             }
 
         },
-		
-		"CCLOnline": {
-		
-			"skip": true,
+
+        "CCLOnline": {
+
+            "skip": true,
 
             "name": "CCLOnline",
 
@@ -200,12 +200,12 @@
             ],
 
             "products": {
-				"https://www.cclonline.com/product/327807/RTX-3080-GAMING-X-TRIO-10G/Graphics-Cards/MSI-GeForce-RTX-3080-GAMING-X-TRIO-10GB-Overclocked-Graphics-Card/VGA5868/": "MSI GeForce RTX 3080 GAMING X TRIO 10GB OC GPU",
-				"https://www.cclonline.com/product/327814/90YV0FB1-M0NM00/Graphics-Cards/ASUS-TUF-Gaming-GeForce-RTX-3080-OC-10GB-Overclocked-Graphics-Card-TUF-RTX3080-O10G-GAMING-/VGA5872/": "ASUS GeForce RTX 3080 TUF 10GB OC GPU",
-				"https://www.cclonline.com/product/327818/GV-N3080GAMING-OC-10GD/Graphics-Cards/Gigabyte-GeForce-RTX-3080-GAMING-OC-10GB-Overclocked-Graphics-Card/VGA5876/": "Gigabyte GeForce RTX 3080 GAMING 10GB OC GPU",
-				"https://www.cclonline.com/product/333043/RTX-3080-SUPRIM-X-10G/Graphics-Cards/MSI-GeForce-RTX-3080-SUPRIM-X-10GB-Overclocked-Graphics-Card/VGA5916/": "MSI GeForce RTX 3080 SUPRIM X 10GB OC GPU",
-				"https://www.cclonline.com/product/329226/10G-P5-3885-KR/Graphics-Cards/EVGA-GeForce-RTX-3080-XC3-ULTRA-10GB-Overclocked-Graphics-Card/VGA5897/": "EVGA GeForce RTX 3080 XC3 Ultra 10GB OC GPU",
-				"https://www.cclonline.com/product/329228/10G-P5-3897-KR/Graphics-Cards/EVGA-GeForce-RTX-3080-FTW3-ULTRA-10GB-Overclocked-Graphics-Card/VGA5899/": "EVGA GeForce RTX 3080 FTW3 ULTRA 10GB OC GPU"
+                "https://www.cclonline.com/product/327807/RTX-3080-GAMING-X-TRIO-10G/Graphics-Cards/MSI-GeForce-RTX-3080-GAMING-X-TRIO-10GB-Overclocked-Graphics-Card/VGA5868/": "MSI GeForce RTX 3080 GAMING X TRIO 10GB OC GPU",
+                "https://www.cclonline.com/product/327814/90YV0FB1-M0NM00/Graphics-Cards/ASUS-TUF-Gaming-GeForce-RTX-3080-OC-10GB-Overclocked-Graphics-Card-TUF-RTX3080-O10G-GAMING-/VGA5872/": "ASUS GeForce RTX 3080 TUF 10GB OC GPU",
+                "https://www.cclonline.com/product/327818/GV-N3080GAMING-OC-10GD/Graphics-Cards/Gigabyte-GeForce-RTX-3080-GAMING-OC-10GB-Overclocked-Graphics-Card/VGA5876/": "Gigabyte GeForce RTX 3080 GAMING 10GB OC GPU",
+                "https://www.cclonline.com/product/333043/RTX-3080-SUPRIM-X-10G/Graphics-Cards/MSI-GeForce-RTX-3080-SUPRIM-X-10GB-Overclocked-Graphics-Card/VGA5916/": "MSI GeForce RTX 3080 SUPRIM X 10GB OC GPU",
+                "https://www.cclonline.com/product/329226/10G-P5-3885-KR/Graphics-Cards/EVGA-GeForce-RTX-3080-XC3-ULTRA-10GB-Overclocked-Graphics-Card/VGA5897/": "EVGA GeForce RTX 3080 XC3 Ultra 10GB OC GPU",
+                "https://www.cclonline.com/product/329228/10G-P5-3897-KR/Graphics-Cards/EVGA-GeForce-RTX-3080-FTW3-ULTRA-10GB-Overclocked-Graphics-Card/VGA5899/": "EVGA GeForce RTX 3080 FTW3 ULTRA 10GB OC GPU"
             }
 
         }
